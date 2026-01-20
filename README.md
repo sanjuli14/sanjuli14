@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es <strong>Julio Cesar Garcia</strong> y soy <strong>Web Developer</strong> de Cuba</p>
+<p align="left">Mi nombre es <strong>Julio Cesar Garcia</strong> y soy <strong>Web Developer</strong> y <string>Mobile Developer</string> de Cuba</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desarrollando desde hace dos años <br><br>📚 Ing Ciencias Informaticas<br></p>
+<p align="left">✨ Desarrollando hace tres años años <br><br>📚 Ing Ciencias Informaticas<br></p>
 
 ###
 
