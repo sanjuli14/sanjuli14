@@ -29,6 +29,8 @@
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="html logo"  />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="40" alt="html logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vue/vue-original.svg" height="40" alt="html logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" height="40" alt="html logo"  />
 </div>
 <h2 align="left"><strong>Back-End</strong> </h2>
 <div>
