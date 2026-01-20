@@ -47,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" height="40" alt="sqllite logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hive/hive-original.svg" height="40" alt="postgres logo"  />
 </div>
 
 ###
