@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desarrollando hace tres años años <br><br>📚 Ing Ciencias Informaticas<br><br> 🧠Uso de Bibliotecas y Librerías</p>
+<p align="left">✨ Desarrollando hace tres años años <br><br>📚 Ing Ciencias Informaticas<br><br> 🧠 Uso de Bibliotecas y Librerías</p>
 
 ###
 
