@@ -41,7 +41,7 @@
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
 </div>
-<h2 align="left"><strong>base de Datos</strong> </h2>
+<h2 align="left"><strong>Base de Datos</strong> </h2>
 <div>
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" height="40" alt="sqllite logo"  />
